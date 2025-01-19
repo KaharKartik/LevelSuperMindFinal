@@ -88,8 +88,8 @@ This project is licensed under the MIT License.
 ## 🌐 Connect With Us
 
 - [Website](https://www.soulastro.com)
+- [Linkedin](https://www.linkedin.com/in/kahar-kartik)
 - [Twitter](https://twitter.com/soulastro)
-- [Instagram](https://instagram.com/soulastro)
 
 ---
 
