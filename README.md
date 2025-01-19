@@ -15,9 +15,9 @@
 ### 🔄 Data Flow and User Interaction
 
 1. **Input**:
-   - **Date of Birth** (mandatory)
-   - **Time of Birth** (optional, for detailed astrology)
-   - **Location of Birth** (optional, for Kundali generation)
+   - **Date of Birth**
+   - **Time of Birth** 
+   - **Location of Birth** 
 
 2. **Process**:
    - **Astro API Integration**: Fetches astrological data and generates predictions.
@@ -76,6 +76,9 @@ Access the platform at `http://localhost:3000`.
 We've made it even easier to access **SoulAstro**! The website is hosted on Vercel, allowing you to experience it live at:
 
 🔗 **[SoulAstro Live](https://level-super-mind-hack-xpxa.vercel.app/)**
+
+### Youtube Video
+🔗 **[Video Link](https://www.youtube.com/watch?v=bzsynNptpf4)**
 
 ## 🤝 Contributing
 
