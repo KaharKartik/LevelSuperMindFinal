@@ -75,7 +75,7 @@ Access the platform at `http://localhost:3000`.
 
 We've made it even easier to access **SoulAstro**! The website is hosted on Vercel, allowing you to experience it live at:
 
-🔗 **[SoulAstro Live](https://soulastro.vercel.app)**
+🔗 **[SoulAstro Live](https://level-super-mind-hack-xpxa.vercel.app/)**
 
 ## 🤝 Contributing
 
